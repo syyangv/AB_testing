@@ -6,3 +6,5 @@ This is built for A/B testing project about a mobile game based on a toy project
 Please read the notebook for details.
 
 ## Andrew_Ng_ML_DL_exercises
+
+Done in Python instead of Octave/Matlab. Each exercise is documented as one notebook.
