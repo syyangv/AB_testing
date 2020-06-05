@@ -1,4 +1,4 @@
-This repo is for ipython notebooks for projects and exercises I have done
+This repo is for finished ipython notebooks for projects and exercises I have done
 
 ## AB_testing_game
 
